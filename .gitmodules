@@ -1,0 +1,12 @@
+[submodule "src/pfc-memoria-tex"]
+	path = src/pfc-memoria-tex
+	url = git@github.com:millenc/pfc-memoria-tex.git
+[submodule "src/pfc-presentacion-beamer"]
+	path = src/pfc-presentacion-beamer
+	url = git@github.com:millenc/pfc-presentacion-beamer.git
+[submodule "src/pfc-matlab"]
+	path = src/pfc-matlab
+	url = git@github.com:millenc/pfc-matlab.git
+[submodule "src/pfc-matlab-tikz"]
+	path = src/pfc-matlab-tikz
+	url = git@github.com:millenc/pfc-matlab-tikz.git
